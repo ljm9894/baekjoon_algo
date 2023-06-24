@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         int[][]arr;
-        arr = new int[1000][1000];
+        arr = new int[101][101];
         int max = 0;
         int a = 0,b=0;
         Scanner scanner = new Scanner(System.in);
