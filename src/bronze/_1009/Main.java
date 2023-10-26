@@ -14,10 +14,9 @@ public class Main {
             b = sc.nextInt();
             t=1;
             for(int j=0;j<b;j++) t = (t*a)%10;
-            if(t==1) t=10;
+            if(t==0) t=10;
             System.out.println(t);
         }
-
 
     }
 }
