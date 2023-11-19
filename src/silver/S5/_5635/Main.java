@@ -1,4 +1,4 @@
-package silver._5635;
+package silver.S5._5635;
 
 import java.util.Arrays;
 import java.util.Comparator;

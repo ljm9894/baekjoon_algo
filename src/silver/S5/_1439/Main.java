@@ -1,4 +1,4 @@
-package silver._1439;
+package silver.S5._1439;
 
 import java.util.Scanner;
 import java.util.StringTokenizer;

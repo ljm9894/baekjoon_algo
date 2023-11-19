@@ -1,4 +1,4 @@
-package silver._1316;
+package silver.S5._1316;
 
 import java.util.Scanner;
 

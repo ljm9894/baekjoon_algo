@@ -1,6 +1,5 @@
-package silver._1181;
+package silver.S5._1181;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
